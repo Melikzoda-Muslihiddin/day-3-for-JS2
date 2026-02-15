@@ -156,14 +156,3 @@
 //     })
 // }
 // showUsers()
-
-
-const box = document.querySelector('box');
-const addForm = document.querySelector('addForm');
-const submit = document.querySelector('submit');
-let idx = null
-let users = [
-    {
-        
-    }
-]
